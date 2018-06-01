@@ -39,7 +39,7 @@
     "test": "nodeunit --reporter=minimal test/tests.js"
   },
   "dependencies": {
-    "adm-zip": "0.2.1",
+    "adm-zip": "0.4.9",
     "kew": "~0.1.7",
     "ncp": "0.4.2",
     "npmconf": "0.0.24",
